@@ -18,6 +18,7 @@ Array Methods
 ```
 Java Test File
 ```
+![Image](https://github.com/DatGuy84/CSE-15L-Lab-Report-5/blob/main/pre-tests.png?raw=true) 
 
 ```
 Bash Script
