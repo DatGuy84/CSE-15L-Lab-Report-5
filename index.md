@@ -10,4 +10,21 @@ that would compile the java files and run the tester file.  While the median met
 it seems that the inOrder method failed which makes me believe that the median method is also wrong.  I
 would appreciate help on this problem.
 
+```
+Array Methods
+```
+![Image](https://github.com/DatGuy84/CSE-15L-Lab-Report-5/blob/main/pre-code.png?raw=true)
+
+```
+Java Test File
+```
+
+```
+Bash Script
+```
+
+```
+Errors produced
+```
+
 
