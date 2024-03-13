@@ -51,3 +51,4 @@ Code After Changes
 ```
 Test Output From Terminal
 ```
+![Image](https://github.com/DatGuy84/CSE-15L-Lab-Report-5/blob/main/bash%20and%20tests.png?raw=true)
