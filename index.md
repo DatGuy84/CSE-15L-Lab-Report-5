@@ -44,9 +44,10 @@ where the array length was even where it adds both the middle values and divide 
 a test case that properly tests the median method.
 
 ```
-Test Output From Terminal
+Code After Changes
 ```
+![Image](https://github.com/DatGuy84/CSE-15L-Lab-Report-5/blob/main/ArrayAFter.png?raw=true)
 
 ```
-Code After Changes
+Test Output From Terminal
 ```
