@@ -52,3 +52,8 @@ Code After Changes
 Test Output From Terminal
 ```
 ![Image](https://github.com/DatGuy84/CSE-15L-Lab-Report-5/blob/main/bash%20and%20tests.png?raw=true)
+
+# Part 2
+Something I learned from my lab experience in the second half of this quarter that I did not know before 
+was the uses of keys.  I thought it was interesting how other people could access files on my computer as 
+well as others.  The uses of Vim is also what intrigues me because I like the value of remotely editing files.
