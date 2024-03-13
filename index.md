@@ -36,4 +36,17 @@ Additionally, your ```median``` method works because your tester uses an arraywi
 implement code to work for even length as well.  
 
 # Student's response
-Thank you for the helpful advice.  I found out that the 
+Thank you for the helpful advice.  With your help, I found out that in the ```inOrder``` I started and ended at the 
+condition which is why the array did not change in the test methods, and it iterated the wrong variable.  To fix 
+this, I fixed the inner loop to start at the beginning of the index.  Moreover, I changed the iterating variable 
+from i to x in order to fix the iteration problem.  In order to fix the ```median``` method, I added a scenario
+where the array length was even where it adds both the middle values and divide them by two.  Also, I added
+a test case that properly tests the median method.
+
+```
+Test Output From Terminal
+```
+
+```
+Code After Changes
+```
