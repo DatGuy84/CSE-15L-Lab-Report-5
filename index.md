@@ -31,5 +31,9 @@ Errors produced
 
 # TA's response
 Hello.  It seems like your bash script and works fine, however, there are some errors I have spotted in your code.
-The second for loop in your ```inOrder``` method seems to end right as your outer loop iterates, and it the method
-iterates the wrong variable.  Additionally, the reason why your 
+The second for loop in your ```inOrder``` method seems to end right as your outer loop iterates.  
+Additionally, your ```median``` method works because your tester uses an arraywith odd length.  I suggest you 
+implement code to work for even length as well.  
+
+# Student's response
+Thank you for the helpful advice.  I found out that the 
